@@ -14,7 +14,7 @@ $ nano ~/.bashrc
 now add the following line to the bottom of the bashrc file
 `export PATH=$PATH:~/sh_scripts`
 
-Replacing ~/sh_scripts with the path to the location where you stored create_nb_venv.sh. Now restart bashrc:
+Replacing `~/sh_scripts` with the path to the location where you stored create_nb_venv.sh. Now restart bashrc:
 
 ```
 $ source ./bashrc
