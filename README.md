@@ -21,7 +21,7 @@ $ source ./bashrc
 ```
 Now you can cd to your project directory, choose a name for your venv and do:
 ```
-$ create_nb_venv.sh <name_or_your_venv>
+$ create_nb_venv.sh <name_of_your_venv>
 $ jupyter lab
 ```
 You can now choose the venv for your notebooks.
