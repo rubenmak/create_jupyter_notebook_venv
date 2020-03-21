@@ -1,4 +1,4 @@
-# Create Jupyter Notebook Venv
+# Bash Script to Create Jupyter Notebook Venv
 
 You should use virtual environments for your jupyter notebooks. This is a bash script that can help as a shortcut for making a new venv in a new (or newly cloned) jupyter notebook project, using jupyter notebook or jupyter lab.
 
