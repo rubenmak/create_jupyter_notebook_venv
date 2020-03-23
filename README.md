@@ -24,8 +24,8 @@ Now you can cd to your project directory, choose a name for your venv and do:
 $ create_nb_venv.sh <name_of_your_venv>
 $ jupyter lab
 ```
-You can now choose the venv for your notebooks.
-Good practice is to install all needed packages in the first cell of your notebook, for example:
+You can now choose the venv for your notebooks in jupyter.
+If you want to make the life easy for the people you'll be sharing your notebook with, you should install all required packages in the first cell of your notebook, for example:
 ```
 import sys
 !{sys.executable} -m pip install numpy
