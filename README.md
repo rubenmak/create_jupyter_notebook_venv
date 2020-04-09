@@ -17,7 +17,7 @@ now add the following line to the bottom of the bashrc file
 Replacing `~/sh_scripts` with the path to the location where you stored create_nb_venv.sh. Now restart bashrc:
 
 ```
-$ source ./bashrc
+$ source ~/.bashrc
 ```
 Now you can cd to your project directory, choose a name for your venv and do:
 ```
